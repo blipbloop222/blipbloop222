@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Year 4 SE Student
+Expectations: Learn how software has evolved over time, from function to UI, and best practices to maintain a software application.
+![What Represents Me](hamster.jpeg)
